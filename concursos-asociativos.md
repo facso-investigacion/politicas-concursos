@@ -26,7 +26,7 @@ La ANID cuenta con una oferta que asciende a 13 convocatorias de fondos concursa
 - Concurso de Proyectos de Exploración
 - Concurso Acceso a Embarcaciones para Investigación Científica 
 
-Del total de convocatorias disponibles, históricamente nuestra Facultad sólo tiene participación (ya sea como IR o COI) en menos de 20 proyectos, correspondientes a los concursos de investigación asociativa "Anillo", "Núcleos Milenio" y "Explora", tal como se detalla en la siguiente tabla: 
+Del total de convocatorias disponibles, históricamente nuestra Facultad sólo tiene participación (ya sea como IR o COI) en menos de 20 proyectos, correspondientes a los concursos de investigación asociativa "Anillo", "Núcleos Milenio", "FONDAP" y "Explora", tal como se detalla en la siguiente tabla: 
 
 | Título   del proyecto                                                                                                           | Entidad Financiadora | Concurso                             | Instrumento                           | Convocatoria |
 |---------------------------------------------------------------------------------------------------------------------------------|----------------------|--------------------------------------|---------------------------------------|--------------|
@@ -39,6 +39,7 @@ Del total de convocatorias disponibles, históricamente nuestra Facultad sólo t
 | Investigando en ciencias sociales: el consumo cultural y las historias de vida                                                  | ANID                 | Explora                              | Divulgación Y Valoración De Cti       | 2011         |
 | Ejecutemos desde los estudiantes la mejora de la convivencia escolar y la participación ciudadana                               | ANID                 | Explora                              | Divulgación Y Valoración De Cti       | 2011         |
 | Redes colaborativas para la comprensión crítica de las juventudes y las transformaciones sociales en Chile                      | ANID                 | Programa De Investigación Asociativa | Colaboración Internacional Anillos    | 2012         |
+| Centro de Estudios de Conflicto y Cohesión Social (COES)                                                                        | ANID                 | FONDAP                               | Programa FONDAP                       | 2013         |
 | Construyendo la biogeografía de Chile                                                                                           | ANID                 | Explora                              | Divulgación Y Valoración De Cti       | 2014         |
 | Educación Socio-Ambiental. Explorando  nuestro entorno de la escuela a la ciudad                                                | ANID                 | Explora                              | Divulgación Y Valoración De Cti       | 2014         |
 | Cambios Sociales y Variabilidad Climática a Largo Plazo en el Desierto de Atacama                                               | ANID                 | Programa De Investigación Asociativa | Concurso Anillos En Ciencias Sociales | 2014         |
