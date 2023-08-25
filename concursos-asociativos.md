@@ -70,6 +70,16 @@ Según la convocatoria a la cual se pretende postular los requisitos en la confo
 | Concurso de Proyectos de   Exploración                                                                  |                           |                      |
 | Concurso Acceso a   Embarcaciones para Investigación Científica                                         |                           |                      |
 
+
+| Departamento   | Potenciales investigadores/as   líderes de un proyecto | Potenciales académicos/as   participantes de un proyecto | Potenciales investigadores/as   jóvenes para un proyecto |
+|----------------|--------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
+| Antropología   |                                                        |                                                          |                                                          |
+| Educación      |                                                        |                                                          |                                                          |
+| Psicología     |                                                        |                                                          |                                                          |
+| Sociología     |                                                        |                                                          |                                                          |
+| Trabajo social |                                                        |                                                          |                                                          |
+
+
 ## ¿Cómo aumentar las probabilidades de acceso a estos fondos de investigación asociativa?
 La política de estímulo a la formulación de proyectos de investigación asociativa toma en consideración dos grandes ejes para mejorar nuestra producitivdad académica, observable a través de las tasas de postulación y adjudicación a este tipo de iniciativas en contraste con nuestro potencial académico disponible, entendido como la cantidad de investigadores/as con una trayectoria y experiencia compatible con los perfiles exigidos por cada convocatoria, considerando desde la inserción de nuevos/as investigadores/as con carreras iniciales, el fortalecimiento de las capacidades de investigadores/as de trayectoria en pleno desarrollo y la consolidación de aquellos/as considerados/as investigadores/as *senior* o con un nivel de experiencia avanzado, que cumple con los requisitos para liderar un proyecto de investigación asociativo. En síntesis, los lineamientos propuestos abordan, por un lado, (1) la creación y financiamiento de **estímulos y apoyo a la postulación de proyectos de investigación asociativos** y, por otro, (2) la oportuna **identificación del público potencial** según perfiles, carreras, afinidades, experiencia, etc. 
 
