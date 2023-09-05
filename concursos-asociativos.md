@@ -11,13 +11,12 @@ Pese a las cifras actuales de adjucación, la Facultad de Ciencias Sociales es u
 A través del estímulo a la formulación de proyectos de investigación asociativa, esperamos que nuestra Facultad de Ciencias Sociales aumente la cantidad de iniciativas adjudicadas en esta categoría, aumentando con ello la capacidad de producción y divulgación de conocimiento científico en áreas de interés nacional e internacional. Esperamos posicionar a nuestra Facultad como una organización que reconoce y hace uso de su potencial en esta forma de trabajo, poniendo a disposición recursos y apoyo permanente para que quienes cumplan con los requisitos de postulación exigidos en este tipo de proyectos aumenten sus probabilidades de su adjucación, así como quienes no, puedan desarrollar sus capacidades hasta lograr el nivel de desempeño requerido, ya estén en una etapa inicial, intermedia o avanzada de su carrera académica. 
 
 ### 2. Diagnóstico
-La ANID cuenta con una oferta que asciende a 13 convocatorias de fondos concursables para la investigación asociativa (formalmente son 12, pero se considera además para este documento el concurso "Proyecto de exploración", categorizado atualmente como "Proyectos de investigación" según su sistema de clasificación). Estos concursos son: 
+La ANID cuenta con una oferta que asciende a 12 convocatorias de fondos concursables para la investigación asociativa (formalmente son 11, pero se considera además para este documento el concurso "Proyecto de exploración", categorizado atualmente como "Proyectos de investigación" según su sistema de clasificación). Estos concursos son: 
 - Concurso de Equipamiento Científico y Tecnológico Mayor                                             
 - Concurso Anillos de Investigación en Áreas Temáticas Específicas
 - Concurso Núcleos Milenio en Ciencias Naturales y Exactas
 - Concurso de Núcleos Milenio en Ciencias Sociales
 - Concurso de Equipamiento Científico y Tecnológico Mediano
-- Concurso de Fortalecimiento y Desarrollo de Centros Regionales de Desarrollo Científico y Tecnológico
 - Concurso de Apoyo a Centros de Excelencia en Investigación en Áreas Prioritarias – FONDAP
 - Concurso Apoyo al Fortalecimiento a las Capacidades para la I+D
 - Concurso Apoyo a Centros Científicos y Tecnológicos de Excelencia con Financiamiento Basal
@@ -53,33 +52,132 @@ Estos proyectos adjudicados representan una muy pequeña proporción de la inves
 
 -----
 ## Requisitos de equipo para postular
-Según la convocatoria a la cual se pretende postular los requisitos en la conformación de equipo varían considerablemente, no obstante, en el presente documento se presenta un resumen de criterios funcionales mínimos que deben cumplir los diferentes roles transversalmente identificados en las bases de cada concurso. En la siguiente tabla se identifican los cargos o roles que exige cada una de las convocatorias identificadas, además de una breve descripción de cuáles son los requisitos mínimos que un/a académico debe cumplir para ejercer en dicho cargo.  
+Según la convocatoria a la cual se pretende postular los requisitos en la conformación de equipo varían considerablemente, no obstante, en el presente documento se presenta un resumen de criterios funcionales mínimos que deben cumplir los diferentes roles transversalmente identificados en las bases de cada concurso. 
 
-| Concurso                                                                                                | Cargos o roles requeridos | Requisitios mínimos  |
-|---------------------------------------------------------------------------------------------------------|---------------------------|----------------------|
-| Concurso de Equipamiento   Científico y Tecnológico Mayor                                               |                           |                      |
-| Concurso Anillos de   Investigación en Áreas Temáticas Específicas                                      |                           |                      |
-| Concurso Núcleos Milenio en   Ciencias Naturales y Exactas                                              |                           |                      |
-| Concurso de Núcleos Milenio   en Ciencias Sociales                                                      |                           |                      |
-| Concurso de Equipamiento   Científico y Tecnológico Mediano                                             |                           |                      |
-| Concurso de Fortalecimiento y   Desarrollo de Centros Regionales de Desarrollo Científico y Tecnológico |                           |                      |
-| Concurso de Apoyo a Centros   de Excelencia en Investigación en Áreas Prioritarias – FONDAP             |                           |                      |
-| Concurso Apoyo al   Fortalecimiento a las Capacidades para la I+D                                       |                           |                      |
-| Concurso Apoyo a Centros   Científicos y Tecnológicos de Excelencia con Financiamiento Basal            |                           |                      |
-| Concurso de Fortalecimiento   al Desarrollo Científico Tecnológico de Centros Regionales                |                           |                      |
-| Concurso de Asignación de   Tiempo de Buque Oceanográfico                                               |                           |                      |
-| Concurso de Proyectos de   Exploración                                                                  |                           |                      |
-| Concurso Acceso a   Embarcaciones para Investigación Científica                                         |                           |                      |
+En general, la composición de un equipo para un proyecto de investigación asociativa se compone de un equipo principal, uno asociado, estudiantes, profesionales y personal técnico y/o de apoyo. En algunos casos también se consiedra que la persona beneficiaria debe ser jurídica, por tanto, es la institución la que designa un/a coordinador/a y la constitución del equipo según los requerimientos de cada convocatoria. A continuación, se presenta un resumen general de la conformación de equipos en proyectos de investigación asociativa financiados por ANID. 
 
+- Equipo principal:
+  - Director/a
+  - Director/a alterno/a
+  - Investigadores/as principales (3 a 5, incluyendo al/a la director/a y director/a alterno/a)
+  - Investigadores Senior
+  - Investigadores Jóvenes
+ 
+- Equipo asociado
+  - Investigadores/as asociados/as
+  - Investigadores/as extranjeros/as
+  - Postdoctorantes
+ 
+- Estudiantes
+  - Tesistas de pregrado
+  - Tesistas de postgrado
+ 
+- Profesionales
+  - Gestión financiera
+  - Gestión administrativa
+  - Difusión o comunicación
 
-| Departamento   | Potenciales investigadores/as   líderes de un proyecto | Potenciales académicos/as   participantes de un proyecto | Potenciales investigadores/as   jóvenes para un proyecto |
-|----------------|--------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
-| Antropología   |                                                        |                                                          |                                                          |
-| Educación      |                                                        |                                                          |                                                          |
-| Psicología     |                                                        |                                                          |                                                          |
-| Sociología     |                                                        |                                                          |                                                          |
-| Trabajo social |                                                        |                                                          |                                                          |
+- Personal
+  - Técnico y de apoyo (asistentes)
+  
+En la siguiente tabla se identifican los cargos o roles específicos que exige cada una de las convocatorias identificadas.
 
+| Concurso                                                                                                | Cargos o roles requeridos | 
+|---------------------------------------------------------------------------------------------------------|---------------------------|
+| Concurso de Equipamiento Científico y Tecnológico Mayor                                                 | Coordinador(a) Responsable|
+|                                                                                                         | Investigadores(as) asociados(as)|   
+| Concurso Anillos de Investigación en Áreas Temáticas Específicas                                        | Director(a) a cargo       |
+|                                                                                                         | Director(a) Alterno(a)    |  
+|                                                                                                         | Investigadores(as) Principales (mín. 3 - máx. 5 incluyendo al(a la) Director(a) y Director(a) Alterno(a))|  
+|                                                                                                         | Investigadores(as) Asociados(as) (opcional, máx. 2)|  
+|                                                                                                         | Investigadores(as) Extranjeros(as)|  
+|                                                                                                         | Postdoctorantes           |  
+|                                                                                                         | Tesistas de pre y/o postgrado|  
+|                                                                                                         | Asistentes de Investigación|  
+|                                                                                                         | Personal Profesional      |  
+|                                                                                                         | Personal Técnico y Administrativo|
+| Concurso Núcleos Milenio en Ciencias Naturales y Exactas                                                | Director(a)               |
+|                                                                                                         | Director(a) Alterno(a)    |     
+|                                                                                                         | Investigadores Principales|     
+|                                                                                                         | Investigador Senior       |     
+|                                                                                                         | Investigador Joven        |     
+|                                                                                                         | Investigador Adjunto      |  
+|                                                                                                         | Postdoctorante            |   
+|                                                                                                         | Personal de Gestión Administrativa|     
+|                                                                                                         | Personal Profesional y/o Técnico|     
+|                                                                                                         | Personal de Comunicaciones|   
+| Concurso de Núcleos Milenio en Ciencias Sociales                                                        | Director(a)                            |   
+|                                                                                                         | Director(a) Alterno(a)    |     
+|                                                                                                         | Investigadores Principales|     
+|                                                                                                         | Investigador Senior       |     
+|                                                                                                         | Investigador Joven        |     
+|                                                                                                         | Investigador Adjunto      |  
+|                                                                                                         | Postdoctorante            |   
+|                                                                                                         | Personal de Gestión Administrativa|     
+|                                                                                                         | Personal Profesional y/o Técnico|     
+|                                                                                                         | Personal de Comunicaciones|   
+| Concurso de Equipamiento Científico y Tecnológico Mediano                                               | Coordinador(a) Responsable| 
+|                                                                                                         | Investigadores(as) asociados(as)|                          
+| Concurso de Apoyo a Centros de Excelencia en Investigación en Áreas Prioritarias – FONDAP               | Director(a) del Centro    | 
+|                                                                                                         | Director(a) Alterno(a)    |   
+|                                                                                                         | Investigadores(as) principales (mín. 4 incluyendo al(a la) Director(a) y Director(a) Alterno(a))|    
+| Concurso Apoyo al Fortalecimiento a las Capacidades para la I+D                                         | Director/a                |
+|                                                                                                         | Gerente/a                 | 
+|                                                                                                         | Encargado financiero      | 
+|                                                                                                         | Encaragado/a difusión al medio| 
+| Concurso Apoyo a Centros Científicos y Tecnológicos de Excelencia con Financiamiento Basal              | Director/a                |
+|                                                                                                         | Director/a Alterno/a      |  
+|                                                                                                         | Investigador/a Titular    |  
+|                                                                                                         | Investigador/a            |  
+|                                                                                                         | Otro/a investigador/a     |  
+|                                                                                                         | Gerente                   |  
+|                                                                                                         | Profesional de Apoyo      |      
+|                                                                                                         | Profesional TT/Desarrollo |      
+|                                                                                                         | Profesional Coordinador   |      
+|                                                                                                         | Profesional Encargado Financiero|      
+|                                                                                                         | Profesional Difusión al medio|      
+|                                                                                                         | Administrativo/a          |      
+|                                                                                                         | Postdoctorante            |      
+|                                                                                                         | Tesista de Postgrado (doctorado)|      
+|                                                                                                         | Tesista de Postgrado (Magíster)|  
+|                                                                                                         | Tesista de Pregrado       |      
+|                                                                                                         | Técnico/a                 |      
+|                                                                                                         | Asistente                 |      
+| Concurso de Fortalecimiento al Desarrollo Científico Tecnológico de Centros Regionales                  | Director(a) del Proyecto  |  
+|                                                                                                         | Director(a) Alterno(a)    |   
+|                                                                                                         | Investigadores(as) Principales (mín. 3 - máx. 5)|   
+|                                                                                                         | Investigador(a) Asociado(a)|   
+|                                                                                                         | Investigadores(as) Extranjeros Investigadores(as) Extranjeros(as)|   
+|                                                                                                         | Postdoctorantes           |   
+|                                                                                                         | Tesista de Postgrado      |   
+|                                                                                                         | Tesista de Pregrado       |   
+|                                                                                                         | Director(a) ejecutivo(a) o Gerente(a) Corporativo|   
+|                                                                                                         | Personal Profesional y Técnico|    
+|                                                                                                         | Personal Administrativo   |    
+|                                                                                                         | Personal de Apoyo (Asistentes de investigación)|    
+| Concurso de Asignación de Tiempo de Buque Oceanográfico                                                 | Coordinador(a) de proyecto|
+|                                                                                                         | Investigadores(as)        |    
+| Concurso de Proyectos de Exploración                                                                    | Director/a                |      
+|                                                                                                         | Director/a adjunto        |     
+|                                                                                                         | Coinvestigador/a          |     
+|                                                                                                         | Tesistas o memoristas     |     
+|                                                                                                         | Personal técnico          |      
+| Concurso de Apoyo a Institutos Milenio en Ciencias Naturales y Exactas; y en Ciencias Sociales          | Director(a) Científico(a) |                      
+|                                                                                                         | Director(a) Alterno(a)    |                      
+|                                                                                                         | Investigador(a) principal(a)|                      
+|                                                                                                         | Investigador(a) adjunto(a)|                    
+|                                                                                                         | Investigador(a) senior(a) |                        
+|                                                                                                         | Investigador(a) joven(a)  |                     
+|                                                                                                         | Postdoctorante            |                       
+|                                                                                                         | Estudiante Postgrado (Beca)|                       
+|                                                                                                         | Estudiante Magister (Beca)|                       
+|                                                                                                         | Estudiante Pregrado (Beca)|                   
+|                                                                                                         | Director Ejecutivo – Gerente General|                      
+|                                                                                                         | Personal profesional y/o técnico|                     
+|                                                                                                         | Personal Administrativo   |                      
+|                                                                                                         | Personal Comunicaciones   |                                      
+| Concurso Acceso a Embarcaciones para Investigación Científica                                           | Coordinador(a) del proyecto| 
+|                                                                                                         | Investigadores(as)        |    
 
 ## ¿Cómo aumentar las probabilidades de acceso a estos fondos de investigación asociativa?
 La política de estímulo a la formulación de proyectos de investigación asociativa toma en consideración dos grandes ejes para mejorar nuestra producitivdad académica, observable a través de las tasas de postulación y adjudicación a este tipo de iniciativas en contraste con nuestro potencial académico disponible, entendido como la cantidad de investigadores/as con una trayectoria y experiencia compatible con los perfiles exigidos por cada convocatoria, considerando desde la inserción de nuevos/as investigadores/as con carreras iniciales, el fortalecimiento de las capacidades de investigadores/as de trayectoria en pleno desarrollo y la consolidación de aquellos/as considerados/as investigadores/as *senior* o con un nivel de experiencia avanzado, que cumple con los requisitos para liderar un proyecto de investigación asociativo. En síntesis, los lineamientos propuestos abordan, por un lado, (1) la creación y financiamiento de **estímulos y apoyo a la postulación de proyectos de investigación asociativos** y, por otro, (2) la oportuna **identificación del público potencial** según perfiles, carreras, afinidades, experiencia, etc. 
@@ -112,6 +210,7 @@ En base a criterios de productividad, experiencia e impacto en la producción de
 | Concurso de Fortalecimiento al Desarrollo Científico Tecnológico de Centros Regionales                | junio     | julio     | noviembre    |
 | Concurso de Asignación de Tiempo de Buque Oceanográfico                                               | julio     | agosto    | septiembre   |
 | Concurso de Proyectos de Exploración                                                                  | julio     | agosto    | diciembre    |
+| Concurso de Apoyo a Institutos Milenio en Ciencias Naturales y Exactas; y en Ciencias Sociales 2023   | agosto    | octubre   | diciembre    |
 | Concurso Acceso a Embarcaciones para Investigación Científica                                         | noviembre | diciembre | diciembre    |
 
 -----
@@ -217,16 +316,6 @@ https://anid.cl/concursos/concurso-acceso-a-embarcaciones-para-investigacion-cie
 - Duración:
 - Monto: 
 
-### Concurso de Fortalecimiento y Desarrollo de Centros Regionales de Desarrollo Científico y Tecnológico
-https://anid.cl/concursos/vii-concurso-de-fortalecimiento-y-desarrollo-de-centros-regionales-de-desarrollo-cientifico-y-tecnologico-2022/
-
-**Última versión**: 2022
-- Inicio: 14 de junio, 2022
-- Cierre: 19 de julio, 2022 13:00 hrs
-- Fallo estimado: octubre 2022
-- Duración:
-- Monto: 
-
 ### Concurso de Núcleos Milenio en Ciencias Sociales
 https://anid.cl/concursos/concurso-de-nucleos-milenio-en-ciencias-sociales-2022/
 
@@ -247,5 +336,13 @@ https://anid.cl/concursos/concurso-de-proyectos-de-exploracion-2022-2/
 - Duración:
 - Monto: 
 
+### Concurso de Apoyo a Institutos Milenio en Ciencias Naturales y Exactas; y en Ciencias Sociales 2023
+https://anid.cl/concursos/concurso-de-apoyo-a-institutos-milenio-en-ciencias-naturales-y-exactas-y-en-ciencias-sociales-2023/
 
+**Última versión**: 2023
+- Inicio: 28 de agosto, 2023
+- Cierre: 3 de octubre, 2023 13:00 hrs
+- Fallo estimado: diciembre 2023
+- Duración:
+- Monto:
 
