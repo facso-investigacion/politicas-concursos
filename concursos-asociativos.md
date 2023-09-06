@@ -210,9 +210,9 @@ En base a criterios de productividad, experiencia e impacto en la producción de
 | Concurso de Asignación de Tiempo de Buque Oceanográfico                                               | julio     | agosto    | septiembre   |
 | Concurso de Apoyo a Institutos Milenio en Ciencias Naturales y Exactas; y en Ciencias Sociales 2023   | agosto    | octubre   | diciembre    |
 | Concurso Acceso a Embarcaciones para Investigación Científica                                         | noviembre | diciembre | diciembre    |
-| Concurso de Productos de Divulgación de las Ciencias (Explora)*                                       | -         | -         | -            |
+| Concurso de Productos de Divulgación de las Ciencias (Explora)^1^                                      | -         | -         | -            |
 
-(*) Este concurso realiza convocatorias regionales diferenciadas, por tanto, las fechas de inicio, término y adjudicación puede variar según la Región correspondiente.
+(1) Este concurso realiza convocatorias regionales diferenciadas, por tanto, las fechas de inicio, término y adjudicación puede variar según la Región correspondiente.
 -----
 ## Anexo N°1: Concursos ANID "Centros e Investigación Asociativa"
 
