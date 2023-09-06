@@ -11,10 +11,10 @@ Pese a las cifras actuales de adjucación, la Facultad de Ciencias Sociales es u
 A través del estímulo a la formulación de proyectos de investigación asociativa, esperamos que nuestra Facultad de Ciencias Sociales aumente la cantidad de iniciativas adjudicadas en esta categoría, aumentando con ello la capacidad de producción y divulgación de conocimiento científico en áreas de interés nacional e internacional. Esperamos posicionar a nuestra Facultad como una organización que reconoce y hace uso de su potencial en esta forma de trabajo, poniendo a disposición recursos y apoyo permanente para que quienes cumplan con los requisitos de postulación exigidos en este tipo de proyectos aumenten sus probabilidades de su adjucación, así como quienes no, puedan desarrollar sus capacidades hasta lograr el nivel de desempeño requerido, ya estén en una etapa inicial, intermedia o avanzada de su carrera académica. 
 
 ### 2. Diagnóstico
-La ANID cuenta con una oferta que asciende a 12 convocatorias de fondos concursables para la investigación asociativa (formalmente son 11, pero se considera además para este documento el concurso "Proyecto de exploración", categorizado atualmente como "Proyectos de investigación" según su sistema de clasificación). Estos concursos son: 
+La ANID cuenta con una oferta que asciende a 12 convocatorias de fondos concursables para la investigación asociativa. Estos concursos son: 
 - Concurso de Equipamiento Científico y Tecnológico Mayor                                             
 - Concurso Anillos de Investigación en Áreas Temáticas Específicas
-- Concurso Núcleos Milenio en Ciencias Naturales y Exactas
+- Concurso de Núcleos Milenio en Ciencias Naturales y Exactas
 - Concurso de Núcleos Milenio en Ciencias Sociales
 - Concurso de Equipamiento Científico y Tecnológico Mediano
 - Concurso de Apoyo a Centros de Excelencia en Investigación en Áreas Prioritarias – FONDAP
@@ -22,7 +22,7 @@ La ANID cuenta con una oferta que asciende a 12 convocatorias de fondos concursa
 - Concurso Apoyo a Centros Científicos y Tecnológicos de Excelencia con Financiamiento Basal
 - Concurso de Fortalecimiento al Desarrollo Científico Tecnológico de Centros Regionales
 - Concurso de Asignación de Tiempo de Buque Oceanográfico
-- Concurso de Proyectos de Exploración
+- Concurso de Productos de Divulgación de las Ciencias (Explora)
 - Concurso Acceso a Embarcaciones para Investigación Científica 
 
 Del total de convocatorias disponibles, históricamente nuestra Facultad sólo tiene participación (ya sea como IR o COI) en menos de 20 proyectos, correspondientes a los concursos de investigación asociativa "Anillo", "Núcleos Milenio", "FONDAP" y "Explora", tal como se detalla en la siguiente tabla: 
@@ -46,7 +46,7 @@ Del total de convocatorias disponibles, históricamente nuestra Facultad sólo t
 | Contemporary Migrations in Chile: Challenges to Democracy, Global Citizenship, and Access to Non-discriminatory Rights          | ANID                 | Programa De Investigación Asociativa | Concurso Anillos En Ciencias Sociales | 2018         |
 | Núcleo Océano, Patrimonio y Cultura (OPC)                                                                                       | ANID                 | Iniciativa Científica Milenio        | Nucleo Investigación Cs. Sociales     | 2021         |
 | Millennium Nucleus in Digital Inequalities and Opportunities                                                                    | ANID                 | Iniciativa Científica Milenio        | Nucleo Investigación Cs. Sociales     | 2022         |
-Fuente: SEPA VID 
+Fuente: SEPA VID
 
 Estos proyectos adjudicados representan una muy pequeña proporción de la investigación total que se ha realizado y actualmente desarrolla en nuestra Facultad, lo cual se vuelve evidente al contrastar las estadísticas de productividad de otro tipo de instrumentos, como Fondecyt Postdoctoral, Iniciación o Regular. A partir de esta comparación se observa un déficit de asociatividad que se pretende revertir con el desarrollo de estrategias que, como sea plantea en el objetivo de esta política, respondan a las necesidades identificadas tanto estimulando y entregando apoyo durante los procesos de formulación, postulación y adjudicación de proyectos, como también reconociendo los perfiles y carreras de los/as académicos/as de nuestra Facultad, con el fin de establecer criterios de compatibilidad para insertarse en este circuito de forma estratégica, según su trayectoria y experiencia.  
 
@@ -96,7 +96,7 @@ En la siguiente tabla se identifican los cargos o roles específicos que exige c
 |                                                                                                         | Asistentes de Investigación|  
 |                                                                                                         | Personal Profesional      |  
 |                                                                                                         | Personal Técnico y Administrativo|
-| Concurso Núcleos Milenio en Ciencias Naturales y Exactas                                                | Director(a)               |
+| Concurso de Núcleos Milenio en Ciencias Naturales y Exactas                                             | Director(a)               |
 |                                                                                                         | Director(a) Alterno(a)    |     
 |                                                                                                         | Investigadores Principales|     
 |                                                                                                         | Investigador Senior       |     
@@ -106,7 +106,7 @@ En la siguiente tabla se identifican los cargos o roles específicos que exige c
 |                                                                                                         | Personal de Gestión Administrativa|     
 |                                                                                                         | Personal Profesional y/o Técnico|     
 |                                                                                                         | Personal de Comunicaciones|   
-| Concurso de Núcleos Milenio en Ciencias Sociales                                                        | Director(a)                            |   
+| Concurso de Núcleos Milenio en Ciencias Sociales                                                        | Director(a)               |   
 |                                                                                                         | Director(a) Alterno(a)    |     
 |                                                                                                         | Investigadores Principales|     
 |                                                                                                         | Investigador Senior       |     
@@ -157,10 +157,9 @@ En la siguiente tabla se identifican los cargos o roles específicos que exige c
 |                                                                                                         | Personal de Apoyo (Asistentes de investigación)|    
 | Concurso de Asignación de Tiempo de Buque Oceanográfico                                                 | Coordinador(a) de proyecto|
 |                                                                                                         | Investigadores(as)        |    
-| Concurso de Proyectos de Exploración                                                                    | Director/a                |      
-|                                                                                                         | Director/a adjunto        |     
-|                                                                                                         | Coinvestigador/a          |     
-|                                                                                                         | Tesistas o memoristas     |     
+| Concurso de Productos de Divulgación de las Ciencias (Explora)                                          | Director/a del Proyecto   |      
+|                                                                                                         | Asesor/a Científico/a     |     
+|                                                                                                         | Encargado/a de Comunicaciones|      
 |                                                                                                         | Personal técnico          |      
 | Concurso de Apoyo a Institutos Milenio en Ciencias Naturales y Exactas; y en Ciencias Sociales          | Director(a) Científico(a) |                      
 |                                                                                                         | Director(a) Alterno(a)    |                      
@@ -209,10 +208,11 @@ En base a criterios de productividad, experiencia e impacto en la producción de
 | Concurso Apoyo a Centros Científicos y Tecnológicos de Excelencia con Financiamiento Basal            | junio     | julio     | noviembre    |
 | Concurso de Fortalecimiento al Desarrollo Científico Tecnológico de Centros Regionales                | junio     | julio     | noviembre    |
 | Concurso de Asignación de Tiempo de Buque Oceanográfico                                               | julio     | agosto    | septiembre   |
-| Concurso de Proyectos de Exploración                                                                  | julio     | agosto    | diciembre    |
 | Concurso de Apoyo a Institutos Milenio en Ciencias Naturales y Exactas; y en Ciencias Sociales 2023   | agosto    | octubre   | diciembre    |
 | Concurso Acceso a Embarcaciones para Investigación Científica                                         | noviembre | diciembre | diciembre    |
+| Concurso de Productos de Divulgación de las Ciencias (Explora)*                                       | -         | -         | -            |
 
+(*) Este concurso realiza convocatorias regionales diferenciadas, por tanto, las fechas de inicio, término y adjudicación puede variar según la Región correspondiente.
 -----
 ## Anexo N°1: Concursos ANID "Centros e Investigación Asociativa"
 
@@ -326,13 +326,13 @@ https://anid.cl/concursos/concurso-de-nucleos-milenio-en-ciencias-sociales-2022/
 - Duración:
 - Monto: 
 
-### Concurso de Proyectos de Exploración
-https://anid.cl/concursos/concurso-de-proyectos-de-exploracion-2022-2/
+### Concurso de Productos de Divulgación de las Ciencias (Explora)
+https://www.explora.cl/blog/concurso-de-valoracion-y-divulgacion-2/
 
-**Última versión**: 2022
-- Inicio: 13 de julio, 2022
-- Cierre: 18 de agosto, 2022 16:00 hrs
-- Fallo estimado: diciembre 2022
+**Última versión**: 
+- Inicio: Depende de la convocatoria regional
+- Cierre: Depende de la convocatoria regional
+- Fallo estimado: Depende de la convocatoria regional
 - Duración:
 - Monto: 
 
