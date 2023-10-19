@@ -185,8 +185,8 @@ La política de estímulo a la formulación de proyectos de investigación asoci
 Desde la Dirección de Investigación y Publicaciones proveeremos al menos 4 vías de estímulo y apoyo a la formulación, postulación y adjudicación de proyectos de investigación asociativa, en coherencia con las formas de incentivo institucionales existentes y con los horizontes de desarrollo identificados en el diagnóstico de nuestras capacidades para la investigación y producción de conocimiento. En específico, se plantea la ejecución de al menos las siguientes medidas:
 - Jornadas de mentoría por pares 
 - Revisión de postulación por pares
-- Apertura de fondo concursable interno para la formulación de proyectos asociativos
 - Reconocimiento en la distribución de la carga académica
+- Asignación de recursos para la conformación de equipos y formulación de proyectos asociativos
   
 ### 2. Identificación del público potencial
 En base a criterios de productividad, experiencia e impacto en la producción de conocimiento científico, es posible clasificar las carreras académicas en iniciales, intermedias y avanzadas, en donde cada categoría permite dirimir el potencial de un/a académico/a como potencial investigador/a que podría liderar o ser parte de un equipo de trabajo asociativo, entregando apoyos diferenciados según las necesidades específicas que surjan en base a esta distribución. En este sentido, la búsqueda de potenciales líderes y participantes de proyectos de investigación asociativa tiene un doble objetivo, que es en primer lugar estimular a quienes ya cumplen con los requisitos exigidos por cada concurso para que formulen proyectos y se presenten a competir en las convocatorias identificadas, y en segundo lugar acortar la brecha de quienes no lo hacen, para que puedan desarrollar sus capacidades y entrar en este circuito de comptencia altamente exigente.   
